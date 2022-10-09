@@ -15,11 +15,11 @@ Web Developer based in West Java, Indonesia. Interested in user interface design
 
 <p align="left">
 
-<a href="https://www.facebook.com/profile.php?id=100055274594084" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="Cak Haho." height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100055274594084" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg" alt="ramdani_real01" height="30" width="40" /></a>
 
-<a href="https://www.instagram.com/ramdani_real01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="cak_haho" height="30" width="40" /></a>
+<a href="https://www.instagram.com/ramdani_real01" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="ramdani_real01" height="30" width="40" /></a>
 
-<a href="https://wa.me/6289512545999" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="Ramdani Official" height="30" width="40" /></a>
+<a href="https://wa.me/6289512545999" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/whatsapp.svg" alt="danzz" height="30" width="40" /></a>
 
 
 </p>
