@@ -3,8 +3,7 @@
 </p>
 
 ### Hi👋, I.m Danzz Coding (Ramdani)
-Hello World!
-My name is Danzz, I am a UI/UX designer and Front End developer, from Bogor, West Java, Indonesian, and I am 16 years old, thanks.
+I am a UI/UX designer and Front End developer, from Bogor, West Java, Indonesian, and I am 16 years old, thanks.
 
 [![Website](https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=&logoColor=black)](https://danzzcodingweb.vercel.app)
 [![Rest Apis](https://img.shields.io/badge/Rest%20Api's-blue?style=for-the-badge&logo=&logoColor=black)](https://danzzapi.xyz)
