@@ -7,9 +7,9 @@
 
 Web Developer based in West Java, Indonesia. Interested in user interface design, street photography enthusiast and love to create something simple.
 
-[![Website](https://img.shields.io/badge/Website-ffffff?style=for-the-badge&logo=vercel&logoColor=black)](https://danzzcodingweb.vercel.app)
-[![Rest Apis](https://img.shields.io/badge/RestApi-ffffff?style=for-the-badge&logo=heroku&logoColor=black)](https://danzzapi.xyz)
-[![Email](https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=black)](mailto:danzzcoding@gmail.com)
+[![Website](https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=&logoColor=black)](https://danzzcodingweb.vercel.app)
+[![Rest Apis](https://img.shields.io/badge/Rest%20Api's-blue?style=for-the-badge&logo=&logoColor=black)](https://danzzapi.xyz)
+[![Email](https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=&logoColor=black)](mailto:danzzcoding@gmail.com)
 
 <h3 align="left">My Social Media  </h3>
 
