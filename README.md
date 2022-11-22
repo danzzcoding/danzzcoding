@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://avatars.githubusercontent.com/Danzzxcodes" width="200" height="200"/>
+<img src="https://avatars.githubusercontent.com/danzzcoding" width="200" height="200"/>
 </p>
 
 ### Hi👋, I.m Danzz Coding (Ramdani)
@@ -12,8 +12,8 @@ I am a UI/UX designer and Front End developer, from Bogor, West Java, Indonesian
 ### My GitHub Stats
 ![](https://komarev.com/ghpvc/?username=danzzcoding&color=000000)
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Danzzxcodes&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danzzxcodes&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=danzzcoding&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=danzzcoding&exclude_repo=KNN-Image-Classification&show_icons=true&hide_border=true&layout=compact&langs_count=8"/>
 </p>
 
 __Thanks for coming to my little place on GitHub__ 😁
