@@ -5,7 +5,7 @@
 ### Hi👋, I.m Danzz Coding (Ramdani)
 I am a UI/UX designer and Front End developer, from Bogor, West Java, Indonesian, and I am 16 years old, thanks.
 
-[![Website](https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=&logoColor=black)](https://danzzcodingweb.vercel.app)
+[![Website](https://img.shields.io/badge/Website-blue?style=for-the-badge&logo=&logoColor=black)](https://danzzcoding.my.id)
 [![Rest Apis](https://img.shields.io/badge/Rest%20Api's-blue?style=for-the-badge&logo=&logoColor=black)](https://danzzapi.xyz)
 [![Email](https://img.shields.io/badge/Email-blue?style=for-the-badge&logo=&logoColor=black)](mailto:danzzcoding@gmail.com)
 
